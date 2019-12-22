@@ -4,7 +4,7 @@ katzdeli = []
 
 #function definition
 
-def linemethod(katzline)
+def linethod(katzline)
 
 #set the postion value is 1
 
